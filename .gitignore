@@ -3,6 +3,8 @@ logs
 *.log
 npm-debug.log*
 
+android
+
 # Runtime data
 pids
 *.pid
